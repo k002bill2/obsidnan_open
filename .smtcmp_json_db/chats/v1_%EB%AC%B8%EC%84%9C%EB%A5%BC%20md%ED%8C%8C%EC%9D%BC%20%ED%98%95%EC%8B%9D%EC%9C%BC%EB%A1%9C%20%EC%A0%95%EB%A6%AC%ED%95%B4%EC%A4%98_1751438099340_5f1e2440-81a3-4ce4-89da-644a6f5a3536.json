@@ -1,0 +1,269 @@
+{
+  "id": "5f1e2440-81a3-4ce4-89da-644a6f5a3536",
+  "title": "문서를 md파일 형식으로 정리해줘",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "문서를 md파일 형식으로 정리해줘",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\n문서를 md파일 형식으로 정리해줘\n\n"
+        }
+      ],
+      "id": "2cd5e66b-7976-41be-ae5b-0e938ee89437",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "AI Memory Bank 관련.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "<smtcmp_block filename=\"AI Memory Bank 관련.md\" language=\"markdown\">\n# AI Memory Bank 관련\n\n## 모드별 실행\n\n### Plan Mode\n\n```bash\n\"Plan Mode로 다음 작업 계획 세워줘\" 전체적인 전략 수립해줘\n```\n\n### Act Mode\n\n```bash\n\"Act Mode로 바로 실행해줘\"\n\"현재 컨텍스트 기반으로 작업 시작해줘\"\n```\n\n## 자동화 명령어\n\n```bash\n\"스타트업 스크립트 실행해줘\"\n\"언대별 자동 실행 설정해줘\"\n\"워크플로우 자동화 설정해줘\"\n```\n\n## 파일별 특화 명령어\n\n### Core Files\n\n```bash\n\"projectbrief 요약해줘\"\n\"productContext 기반으로 사용자 니즈 분석해줘\"\n\"systemPatterns에서 마키텍처 패턴 확인해줘\"\n\"techContext 기반으로 환경 설정해줘\"\n```\n\n### Supporting Files\n\n```bash\n\"changelog에 오늘 작업 추가해줘\"\n\"priority 기반으로 작업 순서 정해줘\"\n\"risks 업데이트하고 내응책 제안해줘\"\n\"performance 메트릭 체크해줘\"\n\"userFeedback 반영해서 개선사항 도출해줘\"\n```\n\n## Memory Bank 명령어 가이드\n\n### 기본 명령어 (AI와 대화할 때)\n\n#### 읽기 명령어\n\n```bash\n\"memory bank 전체 읽어줘\"\n\"현재 프로젝트 상황 파악해줘\"\n\"activeContext 확민해줘\"\n\"progress 상태 알려줘\" 기술 스택 정보 읽어줘\n```\n\n#### 업데이트 명령어\n\n```bash\n\"memory bank 업데이트해줘 방금 작업 progress에 기록해줘\"\n\"activeContext 최신화해줘 새로운 기술 결정사항 systempatterns에 추가해줘\n현재 상황 contextsummary에 정리해줘\"\n```\n\n#### 분석 명령어\n\n```bash\n\"프로젝트 리스크 분석해줘\"\n\"다음 우선순위 작업 추천해줘\"\n\"현재 막힌 부분 해결책 제안해줘기 기술적 문제점 점검해줘\"\n```\n\n#### 고급 명령어\n\n##### 상태 체크\n\n```bash\n\"memory bank 일관성 검증해줘\"\n\"누락된 문서 체크해줘\"\n\"validatestatus 업데이트해줘\"\n\"전체 문서 싱크 맞춰줘\"\n```\n</smtcmp_block>\n\nI have reformatted the document by adding headings and code blocks to improve readability and organization.\n",
+      "id": "00bfe7f3-c00a-4230-b8c9-81b302262f1a",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.0-flash",
+          "model": "gemini-2.0-flash"
+        },
+        "usage": {
+          "prompt_tokens": 956,
+          "completion_tokens": 592,
+          "total_tokens": 1548
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "다시 정리해줘",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\n다시 정리해줘\n\n"
+        }
+      ],
+      "id": "a6b46d1c-9448-4338-b728-ee0f8a031d1c",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "AI Memory Bank 관련.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "Please provide specific instructions on how you want the document to be reorganized.\n",
+      "id": "e640b4f9-ad62-41bb-82cd-6608c2166489",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.0-flash",
+          "model": "gemini-2.0-flash"
+        },
+        "usage": {
+          "prompt_tokens": 1830,
+          "completion_tokens": 15,
+          "total_tokens": 1845
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "문서를 md파일 형식으로 정리해줘",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\n문서를 md파일 형식으로 정리해줘\n\n"
+        }
+      ],
+      "id": "e0460f0f-c696-4e14-b507-0ba18b7a5ec1",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "AI Memory Bank 관련.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "The document is already in markdown format. If you need further assistance, please provide specific instructions.\n",
+      "id": "45827a04-7202-4fe7-9c48-589bc90301a5",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.0-flash",
+          "model": "gemini-2.0-flash"
+        },
+        "usage": {
+          "prompt_tokens": 1859,
+          "completion_tokens": 20,
+          "total_tokens": 1879
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "추가된 부분도 md파일 형식으로 정리해줘",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\n추가된 부분도 md파일 형식으로 정리해줘\n\n"
+        }
+      ],
+      "id": "cd7406c4-f445-45fa-9e75-1660c02a19af",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "AI Memory Bank 관련.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "The entire document is already in markdown format. Can you clarify which specific parts need reformatting?\n",
+      "id": "4ad02c00-f6be-4d61-b556-b58bd423bfa8",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.0-flash",
+          "model": "gemini-2.0-flash"
+        },
+        "usage": {
+          "prompt_tokens": 1896,
+          "completion_tokens": 20,
+          "total_tokens": 1916
+        }
+      }
+    }
+  ],
+  "createdAt": 1751436957023,
+  "updatedAt": 1751438099340,
+  "schemaVersion": 1
+}

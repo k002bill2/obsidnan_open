@@ -1,0 +1,150 @@
+{
+  "id": "1dd98ddf-85bd-4bdb-a91e-85cad1a2fc2d",
+  "title": "로컬 ai연결 가능한가?",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "로컬 ai연결 가능한가?",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\n로컬 ai연결 가능한가?\n\n"
+        }
+      ],
+      "id": "ee5eaaf6-db64-4de1-b060-23eca5d23b1a",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "Secret/API Keys.md"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "로컬 ai연결 가능한가?",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\n로컬 ai연결 가능한가?\n\n"
+        }
+      ],
+      "id": "dd1c0dcc-c92b-4987-8410-b3a93f8f9ba1",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "Secret/API Keys.md"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "로컬 ai연결 가능한가?",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\n로컬 ai연결 가능한가?\n\n"
+        }
+      ],
+      "id": "2f7ad6d0-512c-4c8a-9e98-9e10e7078724",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "Secret/API Keys.md"
+        }
+      ]
+    }
+  ],
+  "createdAt": 1765790521329,
+  "updatedAt": 1765790675941,
+  "schemaVersion": 1
+}

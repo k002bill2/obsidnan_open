@@ -1,0 +1,51 @@
+{
+  "id": "7c5eab3f-e594-4ed2-a3d8-79171238789b",
+  "title": "내 문서에서 api 키 모두 찾아줘",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "내 문서에서 api 키 모두 찾아줘",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\n내 문서에서 api 키 모두 찾아줘\n\n"
+        }
+      ],
+      "id": "bc6d2907-d7dd-4ef1-a755-d3571f24c249",
+      "mentionables": []
+    }
+  ],
+  "createdAt": 1765778126835,
+  "updatedAt": 1765778143203,
+  "schemaVersion": 1
+}

@@ -1,0 +1,197 @@
+{
+  "id": "0d6bcaf8-ce70-431f-9556-ec0f17af6249",
+  "title": "로컬 ai연결 가능한가?",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "로컬 ai연결 가능한가?",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\n로컬 ai연결 가능한가?\n\n"
+        }
+      ],
+      "id": "81ca4714-999a-4329-be11-aab4b609eb23",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "Secret/API Keys.md"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "로컬 ai",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\n로컬 ai\n\n"
+        }
+      ],
+      "id": "58f2e330-5ac9-4a2b-9d25-8c5fa207a0b8",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "Secret/API Keys.md"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "로컬 ai",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\n로컬 ai\n\n"
+        }
+      ],
+      "id": "885324a0-d525-4ee1-9eb5-56257cff157c",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "Secret/API Keys.md"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "dd",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\ndd\n\n"
+        }
+      ],
+      "id": "a4cf1657-579a-4912-a8be-596af00a2035",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "Secret/API Keys.md"
+        }
+      ]
+    }
+  ],
+  "createdAt": 1765790700012,
+  "updatedAt": 1765791156962,
+  "schemaVersion": 1
+}

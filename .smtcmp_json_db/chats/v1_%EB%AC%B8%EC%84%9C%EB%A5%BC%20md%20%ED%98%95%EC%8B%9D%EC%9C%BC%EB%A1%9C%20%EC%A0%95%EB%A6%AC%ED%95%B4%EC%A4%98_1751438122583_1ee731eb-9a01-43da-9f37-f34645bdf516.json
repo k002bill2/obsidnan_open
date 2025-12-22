@@ -1,0 +1,74 @@
+{
+  "id": "1ee731eb-9a01-43da-9f37-f34645bdf516",
+  "title": "문서를 md 형식으로 정리해줘",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "문서를 md 형식으로 정리해줘",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\n문서를 md 형식으로 정리해줘\n\n"
+        }
+      ],
+      "id": "f18aca97-8a7c-4329-9974-f7835b81b164",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "AI Memory Bank 관련.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "Here is the reformatted content of your file:\n<smtcmp_block filename=\"AI Memory Bank 관련.md\" language=\"markdown\">\n## 모드별 실행\n\n### Plan Mode\n\n```bash\n\"Plan Mode로 다음 작업 계획 세워줘\" 전체적인 전략 수립해줘\n```\n\n### Act Mode\n\n```bash\n\"Act Mode로 바로 실행해줘\"\n\"현재 컨텍스트 기반으로 작업 시작해줘\"\n```\n\n## 자동화 명령어\n\n```bash\n\"스타트업 스크립트 실행해줘\"\n\"언대별 자동 실행 설정해줘\"\n\"워크플로우 자동화 설정해줘\"\n```\n\n## 파일별 특화 명령어\n\n### Core Files\n\n```bash\n\"projectbrief 요약해줘\"\n\"productContext 기반으로 사용자 니즈 분석해줘\"\n\"systemPatterns에서 마키텍처 패턴 확인해줘\"\n\"techContext 기반으로 환경 설정해줘\"\n```\n\n### Supporting Files\n\n```bash\n\"changelog에 오늘 작업 추가해줘\"\n\"priority 기반으로 작업 순서 정해줘\"\n\"risks 업데이트하고 내응책 제안해줘\"\n\"performance 메트릭 체크해줘\"\n\"userFeedback 반영해서 개선사항 도출해줘\"\n```\n\n## Memory Bank 명령어 가이드\n\n### 기본 명령어 (AI와 대화할 때)\n\n#### 읽기 명령어\n\n```bash\n\"memory bank 전체 읽어줘\"\n\"현재 프로젝트 상황 파악해줘\"\n\"activeContext 확민해줘\"\n\"progress 상태 알려줘\" 기술 스택 정보 읽어줘\n```\n\n#### 업데이트 명령어\n\n```bash\n\"memory bank 업데이트해줘 방금 작업 progress에 기록해줘\"\n\"activeContext 최신화해줘 새로운 기술 결정사항 systempatterns에 추가해줘\n현재 상황 contextsummary에 정리해줘\"\n```\n\n#### 분석 명령어\n\n```bash\n\"프로젝트 리스크 분석해줘\"\n\"다음 우선순위 작업 추천해줘\"\n\"현재 막힌 부분 해결책 제안해줘기 기술적 문제점 점검해줘\"\n```\n\n#### 고급 명령어\n\n##### 상태 체크\n\n```bash\n\"memory bank 일관성 검증해줘\"\n\"누락된 문서 체크해줘\"\n\"validatestatus 업데이트해줘\"\n\"전체 문서 싱크 맞춰줘\"\n```\n\n## 실전 사용 예시\n\n새 작업 시작할 때\n\n```text\n\"memory bank 읽고 현재 상황 파악한 다음에, priority.md 기반으로 다음 작업 추천해줘\"\n```\n\n작업 완료 후\n\n```text\n\"방금 완성한 챕터 작업을 activeContext.md에 다음 progress.md에 기록하고, 단계 업데이트해줘\"\n```\n\n문제 발생시\n\n```text\n\"현재 에러 상황을 risks md에 추가하고, 해결 방안을 systempatterns 기반으로 제안해줘\"\n```\n\n주간 리뷰시\n\n```text\n\"이번 주 전체 진행상황을 changelog에 정리하고, 다음 주 우선순위를 priority md에 업데미트해줘\"\n```\n\n## 꿀팁 명령어\n\n### 원클릭 세팅\n\n```bash\n\"ebook2 프로젝트용 memory bank 초기 세팅 완료해줘\"\n```\n\n### 빠른 현황 파악\n\n> ```bash\n> \"Contextsummary 기반으로 30초 브리핑해줘\"\n> ```\n</smtcmp_block>",
+      "id": "d7cd455b-4140-40ab-8cef-7e07d8b45f3a",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.0-flash",
+          "model": "gemini-2.0-flash"
+        },
+        "usage": {
+          "prompt_tokens": 1229,
+          "completion_tokens": 825,
+          "total_tokens": 2054
+        }
+      }
+    }
+  ],
+  "createdAt": 1751438118432,
+  "updatedAt": 1751438122583,
+  "schemaVersion": 1
+}

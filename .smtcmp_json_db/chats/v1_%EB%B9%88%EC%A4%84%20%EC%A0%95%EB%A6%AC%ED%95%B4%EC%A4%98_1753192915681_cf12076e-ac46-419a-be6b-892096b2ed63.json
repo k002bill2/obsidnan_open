@@ -1,0 +1,139 @@
+{
+  "id": "cf12076e-ac46-419a-be6b-892096b2ed63",
+  "title": "빈줄 정리해줘",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "빈줄 정리해줘",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\n빈줄 정리해줘\n\n"
+        }
+      ],
+      "id": "039696e5-31d9-476f-85b7-33fab666cb3c",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "이사 준비사항 체크리스트.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "Here are the edits to remove blank lines from your file:\n<smtcmp_block filename=\"이사 준비사항 체크리스트.md\" language=\"markdown\">\n<!-- ... -->\n## 📅 이사 2개월 전\n\n### 계획 수립\n<!-- ... -->\n### 주소 변경 준비\n<!-- ... -->\n## 📅 이사 1개월 전\n\n### 정리 및 포장 준비\n<!-- ... -->\n### 업체 및 서비스 관련\n<!-- ... -->\n## 📅 이사 2주 전\n\n### 주소 변경 신청\n<!-- ... -->\n### 학교/직장 관련\n<!-- ... -->\n## 📅 이사 1주 전\n\n### 최종 확인 및 포장\n<!-- ... -->\n### 기존 집 정리\n<!-- ... -->\n## 📅 이사 당일\n\n### 이사 진행\n<!-- ... -->\n### 즉시 해야할 일\n<!-- ... -->\n## 📅 이사 후 1주일 내\n\n### 행정 업무\n<!-- ... -->\n### 자녀 관련\n<!-- ... -->\n## 📅 이사 후 1개월 내\n\n### 생활 정착\n<!-- ... -->\n### 정리 및 인테리어\n<!-- ... -->\n### 기타\n<!-- ... -->\n## 🚨 주의사항\n\n### 이사 당일 꼭 챙겨야 할 것들\n<!-- ... -->\n### 이사업체 선택 시 확인사항\n<!-- ... -->\n## 📞 비상 연락처 메모\n<!-- ... -->\n---\n\n💡 **팁**: 이사는 체크리스트를 만들어 하나씩 체크해가며 진행하는 것이 실수를 줄이는 가장 좋은 방법입니다. 미리미리 준비하여 스트레스 없는 이사 되세요!\n</smtcmp_block>",
+      "id": "705d5e78-e1b3-4f24-8160-626e79d519ad",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.0-flash",
+          "model": "gemini-2.0-flash"
+        },
+        "usage": {
+          "prompt_tokens": 1729,
+          "completion_tokens": 396,
+          "total_tokens": 2125
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "줄사이 공란 삭제해줘",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\n줄사이 공란 삭제해줘\n\n"
+        }
+      ],
+      "id": "2cef0f8a-3457-4993-bde3-6fb221f0f266",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "이사 준비사항 체크리스트.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "Here are the edits to remove extra spaces between lines in your file:\n<smtcmp_block filename=\"이사 준비사항 체크리스트.md\" language=\"markdown\">\n- [ ] 이사업체 선정 및 계약\n\n### 주소 변경 준비\n\n- [ ] 전입신고 필요 서류 확인\n- [ ] 각종 멤버십, 구독 서비스 주소 변경 목록 작성\n\n## 📅 이사 1개월 전\n\n### 정리 및 포장 준비\n\n- [ ] 불필요한 물건 정리 (기부, 판매, 폐기)\n- [ ] 포장재료 준비 (박스, 테이프, 뽁뽁이, 매직 등)\n- [ ] 귀중품 별도 보관 계획\n- [ ] 중요 서류 따로 모아두기\n\n### 업체 및 서비스 관련\n\n- [ ] 인터넷/TV 설치 예약 (새 집)\n- [ ] 가스, 전기, 수도 개통 신청\n- [ ] 기존 집 공과금 정산 예약\n\n## 📅 이사 2주 전\n\n### 주소 변경 신청\n\n- [ ] 우체국 우편물 배달지 변경 신청\n- [ ] 은행 주소 변경\n- [ ] 보험회사 주소 변경\n- [ ] 카드회사 주소 변경\n- [ ] 휴대폰 요금제 주소 변경\n- [ ] 각종 멤버십 주소 변경\n\n### 학교/직장 관련\n\n- [ ] 자녀 전학 절차 (재학증명서, 생활기록부 등)\n- [ ] 직장 주소 변경 신고\n\n## 📅 이사 1주 전\n\n### 최종 확인 및 포장\n\n- [ ] 이사업체와 최종 확인 (시간, 장소, 연락처)\n- [ ] 짐 포장 완료\n- [ ] 청소용품 준비\n- [ ] 당일 필요한 현금 준비\n- [ ] 새 집 열쇠 수령 확인\n\n### 기존 집 정리\n\n- [ ] 냉장고, 세탁기 물빼기\n- [ ] 에어컨 철거 예약 (필요시)\n- [ ] 기존 집 청소 계획\n\n## 📅 이사 당일\n\n### 이사 진행\n\n- [ ] 이사업체 직원과 물품 확인\n- [ ] 파손 여부 체크\n- [ ] 새 집 도착 후 물품 재확인\n- [ ] 이사비용 정산\n\n### 즉시 해야할 일\n\n- [ ] 가스, 전기, 수도 개통 확인\n- [ ] 인터넷 설치 (예약되어 있다면)\n- [ ] 기본 생활용품 구입 (생수, 간단한 식료품 등)\n\n## 📅 이사 후 1주일 내\n\n### 행정 업무\n\n- [ ] 전입신고 (이사 후 14일 이내)\n- [ ] 주민등록증 재발급\n- [ ] 자동차 등록증 주소 변경\n- [ ] 운전면허증 주소 변경\n- [ ] 건강보험 주소 변경\n\n### 자녀 관련\n\n- [ ] 새 학교 전학 수속\n- [ ] 소아과, 치과 등 병원 알아보기\n- [ ] 새 동네 키즈카페, 놀이터 확인\n\n## 📅 이사 후 1개월 내\n\n### 생활 정착\n\n- [ ] 새 동네 마트, 편의점 위치 파악\n- [ ] 병원, 약국 위치 확인\n- [ ] 주변 맛집 탐방\n- [ ] 이웃과 인사 나누기\n\n### 정리 및 인테리어\n\n- [ ] 짐 정리 완료\n- [ ] 필요한 가구, 가전 구입\n- [ ] 인테리어 소품 배치\n- [ ] 새 집 사진 촬영\n\n### 기타\n\n- [ ] 택배 배송지 변경 확인\n- [ ] 정기 구독 서비스 배송지 변경 확인\n- [ ] 새 동네 편의 시설 이용 (헬스장, 미용실 등)\n\n## 🚨 주의사항\n\n### 이사 당일 꼭 챙겨야 할 것들\n\n- 중요 서류 (계약서, 신분증, 통장 등)\n- 귀중품 (보석, 현금 등)\n- 당일 필요한 생활용품\n- 청소용품\n- 휴대폰 충전기\n- 간단한 공구\n\n### 이사업체 선택 시 확인사항\n\n- 사업자등록증 확인\n- 보험 가입 여부\n- 포장재 제공 여부\n- 추가 비용 발생 조건\n- 파손 시 보상 정책\n\n## 📞 비상 연락처 메모\n\n- 이사업체:\n- 새 집 부동산:\n- 가스공사:\n- 전기공사:\n- 인터넷 설치업체:\n\n---\n\n💡 **팁**: 이사는 체크리스트를 만들어 하나씩 체크해가며 진행하는 것이 실수를 줄이는 가장 좋은 방법입니다. 미리미리 준비하여 스트레스 없는 이사 되세요!\n</smtcmp_block>",
+      "id": "ebda8b4b-55d5-41e3-ba82-1d3c28b29adf",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.0-flash",
+          "model": "gemini-2.0-flash"
+        },
+        "usage": {
+          "prompt_tokens": 2135,
+          "completion_tokens": 1183,
+          "total_tokens": 3318
+        }
+      }
+    }
+  ],
+  "createdAt": 1753192802679,
+  "updatedAt": 1753192915681,
+  "schemaVersion": 1
+}

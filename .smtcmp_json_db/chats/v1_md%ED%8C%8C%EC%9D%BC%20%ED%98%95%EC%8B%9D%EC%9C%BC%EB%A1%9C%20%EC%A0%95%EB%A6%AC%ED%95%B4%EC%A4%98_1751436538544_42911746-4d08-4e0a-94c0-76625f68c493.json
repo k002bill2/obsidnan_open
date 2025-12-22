@@ -1,0 +1,56 @@
+{
+  "id": "42911746-4d08-4e0a-94c0-76625f68c493",
+  "title": "md파일 형식으로 정리해줘",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "이 파일을 md파일 형식으로 정리해줘",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\n이 파일을 md파일 형식으로 정리해줘\n\n"
+        }
+      ],
+      "id": "0ec404d7-f077-4caa-8af0-2efe0a7854cb",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "AI Memory Bank 관련.md"
+        }
+      ]
+    }
+  ],
+  "createdAt": 1751435209642,
+  "updatedAt": 1751436538544,
+  "schemaVersion": 1
+}

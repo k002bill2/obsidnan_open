@@ -1,0 +1,56 @@
+{
+  "id": "486af884-bf47-4ebd-a432-e2cb771a59e8",
+  "title": "오늘 날씨는?",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "오늘 날씨는?",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\n오늘 날씨는?\n\n"
+        }
+      ],
+      "id": "2f55c5a5-7df1-4ca7-896b-9970945f2f1c",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "Home.md"
+        }
+      ]
+    }
+  ],
+  "createdAt": 1766311598756,
+  "updatedAt": 1766311598756,
+  "schemaVersion": 1
+}

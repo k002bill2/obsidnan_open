@@ -1,0 +1,56 @@
+{
+  "id": "b72cfd30-39cc-420a-9b09-1902ca9db3f8",
+  "title": "obsidian://open?vault=icloud%20Obsidian&file=AI%20",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "obsidian://open?vault=icloud%20Obsidian&file=AI%20Memory%20Bank%20%EA%B4%80%EB%A0%A8 md형식으로 글정리해줘",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nobsidian://open?vault=icloud%20Obsidian&file=AI%20Memory%20Bank%20%EA%B4%80%EB%A0%A8 md형식으로 글정리해줘\n\n"
+        }
+      ],
+      "id": "d4026483-e39f-46e2-9ed3-0e672cfbcdf1",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "AI Memory Bank 관련.md"
+        }
+      ]
+    }
+  ],
+  "createdAt": 1751434796320,
+  "updatedAt": 1751435118076,
+  "schemaVersion": 1
+}

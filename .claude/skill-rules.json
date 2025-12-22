@@ -1,0 +1,69 @@
+{
+  "obsidian-note": {
+    "type": "domain",
+    "enforcement": "suggest",
+    "priority": "high",
+    "promptTriggers": {
+      "keywords": ["노트", "note", "문서", "작성", "생성", "메모"],
+      "intentPatterns": [
+        "(새로운|신규|create|add).*?(노트|note|문서)",
+        "(작성|만들|write).*?(노트|note|메모)"
+      ]
+    },
+    "fileTriggers": {
+      "pathPatterns": ["**/*.md"],
+      "contentPatterns": ["^---\\ncreated:", "tags:\\s*\\["]
+    }
+  },
+  
+  "agent-creator": {
+    "type": "domain",
+    "enforcement": "suggest",
+    "priority": "high",
+    "promptTriggers": {
+      "keywords": ["agent", "에이전트", "sub-agent"],
+      "intentPatterns": [
+        "(새로운|신규|create|add).*?(agent|에이전트)",
+        "(만들|생성).*?(agent|에이전트)"
+      ]
+    },
+    "fileTriggers": {
+      "pathPatterns": ["Agent/**/*.md", ".claude/agents/**/*.md"],
+      "contentPatterns": ["^---\\nname:", "tools:\\s*"]
+    }
+  },
+  
+  "knowledge-organizer": {
+    "type": "domain",
+    "enforcement": "suggest",
+    "priority": "normal",
+    "promptTriggers": {
+      "keywords": ["knowledge", "지식", "기술문서", "가이드", "튜토리얼"],
+      "intentPatterns": [
+        "(정리|organize|작성).*?(지식|knowledge|기술)",
+        "(가이드|guide|tutorial).*?"
+      ]
+    },
+    "fileTriggers": {
+      "pathPatterns": ["Knowledge/**/*.md"],
+      "contentPatterns": ["## TL;DR", "## Best Practices"]
+    }
+  },
+  
+  "dev-docs": {
+    "type": "workflow",
+    "enforcement": "suggest",
+    "priority": "high",
+    "promptTriggers": {
+      "keywords": ["계획", "plan", "프로젝트", "project", "구현", "implement"],
+      "intentPatterns": [
+        "(계획|plan|프로젝트).*?(수립|create|시작)",
+        "(구현|implement|개발).*?(시작|start)"
+      ]
+    },
+    "fileTriggers": {
+      "pathPatterns": ["dev/active/**/*.md"],
+      "contentPatterns": ["## Phase", "- \\[ \\]", "## Next Steps"]
+    }
+  }
+}
