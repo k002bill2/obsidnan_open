@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Custom Frames에 Obsidian 저장 버튼 추가 가이드",
+      "path": "Custom Frames에 Obsidian 저장 버튼 추가 가이드.md"
+    },
+    {
       "basename": "README",
       "path": "dev/README.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "CLAUDE",
       "path": "CLAUDE.md"
-    },
-    {
-      "basename": "Custom Frames에 Obsidian 저장 버튼 추가 가이드",
-      "path": "Custom Frames에 Obsidian 저장 버튼 추가 가이드.md"
     },
     {
       "basename": "Recent Conversations",
